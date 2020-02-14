@@ -11,6 +11,7 @@
 * [CSS]()
 * [PHP]()
 * [JSON]()
+* [JavaScript]()
 
 ### Author
 * Hari Prasath V.
