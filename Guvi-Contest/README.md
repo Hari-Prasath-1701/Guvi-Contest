@@ -3,13 +3,12 @@
 ## Hari Prasath V. (1731017)
 
 ### Problem Statement
-* Create a login and signup credentials using AWS in react native application.
-* Build a BLE Android Plugin (from scratch) to communicate between Application A and Application B.
-* Application A sh
+* Create a login and signup credentials using HTML , CSS , jQuery, Ajax ,PHP, MySql , JSON.
+* After successfull Login , update the user profile with age, contact details.
 
 ### Source Code Directories
-* [chatapp](https://github.com/Hari-Prasath-1701/curneu-online-code/tree/master/chatapp)
-* [loginsignup](https://github.com/Hari-Prasath-1701/curneu-online-code/tree/master/loginsignup)
+* [Login]()
+* [Signup]()
 
 ### Author
 * Hari Prasath V.
